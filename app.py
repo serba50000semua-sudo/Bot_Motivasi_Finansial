@@ -3,7 +3,7 @@ import requests
 import datetime
 
 # --- SISTEM KEAMANAN (PASSWORD DARI SOCIABUZZ) ---
-PASSWORD_RAHASIA = "Semogasukes140926"
+PASSWORD_RAHASIA = "Semogasukses140926"
 
 def check_password():
     if "password_benar" not in st.session_state:
